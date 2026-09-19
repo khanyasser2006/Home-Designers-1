@@ -1,0 +1,16 @@
+{
+  "name": "Home Designers Architecture & Design Atelier",
+  "short_name": "Home Designers",
+  "description": "Bespoke luxury residential architecture and interior design atelier.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1E1714",
+  "theme_color": "#1E1714",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

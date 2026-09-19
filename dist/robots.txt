@@ -1,0 +1,25 @@
+# Robots.txt for Home Designers Architecture Atelier
+User-agent: *
+Allow: /
+Allow: /#/homes
+Allow: /#/process
+Allow: /#/studios
+Allow: /#/press
+Allow: /#/contact
+Disallow: /admin
+Disallow: /#/admin
+
+# Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+Sitemap: https://homedesigners.com/sitemap.xml
