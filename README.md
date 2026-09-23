@@ -118,6 +118,6 @@ http://localhost:5173
 
 ## 🎥 Video
 
-*Add a screen recording of the hero scroll here — `scripts/seo_and_animations_verified.png` is already sitting in the repo and worth including too.*
+
 
 ---
